@@ -48,3 +48,11 @@ sudo apt-get install -y python3 python3-tk
 - **Go!** – Click Preview, then Rename. Use Undo to roll back the last batch.
 - **Export the mapping via Export CSV**.
 - **Right-click** a row to Open file or Show in folder.
+
+# Packaging (Optional)
+
+You can ship a standalone binary using **PyInstaller**.
+
+## Install PyInstaller
+```bash
+pip install pyinstaller
