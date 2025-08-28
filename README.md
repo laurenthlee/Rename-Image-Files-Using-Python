@@ -18,6 +18,11 @@ A clean, friendly, cross-platform **bulk file renamer** built with Python + Tkin
 
 ---
 
+### User Interface
+<img width="1050" height="685" alt="image" src="https://github.com/user-attachments/assets/71bd8928-4b61-4c6e-98dd-53f0efdfeaec" />
+
+---
+
 ## Quick start
 
 ### Requirements
